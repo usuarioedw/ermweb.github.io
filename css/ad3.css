@@ -1,0 +1,37 @@
+/* CSS Document */
+/*
+.wrapper{
+ display: flex;
+ flex-wrap: wrap;
+}
+
+.wrapper > div{
+  flex: 1 1 200px;
+}*/
+
+.video-responsive {
+	height: 0;
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	position: relative;
+	}
+.video-responsive iframe, .video-responsive object, .video-responsive embed {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	}
+
+@media only screen and (max-width : 1200px) {
+.dtxt{width:10%;}
+.txti{
+/*padding-left:200px;*/
+background-color:#CCFFCC;
+/*margin-left:10px;*/}
+}
+
+@media only screen and (max-width : 900px) {
+.w3-col.m4{width:98%}
+}
