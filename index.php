@@ -57,8 +57,8 @@ body, html {
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onClick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Cerrar �</a>
   <a href="#about" onClick="w3_close()" class="w3-bar-item w3-button">INICIO</a>
-  <!--a href="#team" onClick="w3_close()" class="w3-bar-item w3-button">HABITACIONES</a>
-  <a href="#work" onClick="w3_close()" class="w3-bar-item w3-button">SERVICIOS</a>
+  <!--a href="#team" onClick="w3_close()" class="w3-bar-item w3-button">TEXTO 1</a>
+  <a href="#work" onClick="w3_close()" class="w3-bar-item w3-button">TEXTO2</a>
   <a href="#pricing" onClick="w3_close()" class="w3-bar-item w3-button">PRECIOS</a>
   <a href="#contact" onClick="w3_close()" class="w3-bar-item w3-button">CONTACT</a-->
 </nav>
