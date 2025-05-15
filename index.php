@@ -3,6 +3,9 @@
 <title>Portafolio E.R.M.</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 <link rel="stylesheet" href="css/w3.css">
 <link rel="stylesheet" href="css/fonts1.css">
 <link rel="stylesheet" href="css/ad3.css">
